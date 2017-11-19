@@ -3,4 +3,4 @@ pipeline:
   frontend:
     image: node:6
     commands:
-      - echo "hello"
+      - echo 'hello'
